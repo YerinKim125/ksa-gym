@@ -8,10 +8,31 @@ body{
 h1{
     font-family: 'NanumSquare';
     font-weight: 5000;
+    font-size: 100pt;
+    margin: 20px;
 }
 table{
     text-align: center;
     font-family: 'NanumSquare';
     font-weight: 1000;
+    font-size: 24pt;
     margin: auto;
+}
+tr{
+    margin: 10px;
+}
+.input{
+    font-family: 'NanumSquare';
+    font-size: 20pt;
+    padding: 10px;
+    margin: 3px;
+    background-color: aliceblue;
+    border: 0;
+}
+.button{
+    font-family: 'NanumSquare';
+    font-size: 20pt;
+    padding: 10px;
+    background-color: beige;
+    border: 0;
 }
