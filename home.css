@@ -1,3 +1,17 @@
-h1 {
-    color: balck;
+@font-face {
+    font-family: "NanumSquare";
+    src: url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+}
+body{
+    text-align: center;
+}
+h1{
+    font-family: 'NanumSquare';
+    font-weight: 5000;
+}
+table{
+    text-align: center;
+    font-family: 'NanumSquare';
+    font-weight: 1000;
+    margin: auto;
 }
