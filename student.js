@@ -1,8 +1,10 @@
 var button = document.getElementById('button');
-var input = document.getElementById('input');
+var time = document.getElementById('time');
+var stunum = document.getElementById('stunum');
+var name = document.getElementById('name');
 var list = document.getElementById('list');
 
-function enter(){
-    document.write('hello');
-}
+form.addEventListener('submit', function(e) {
+    console.log('입장');
+})
 
