@@ -19,7 +19,7 @@ h1{
 table{
     text-align: center;
     font-weight: 1000;
-    font-size: 24pt;
+    font-size: 30pt;
     margin: auto;
 }
 tr{
@@ -27,7 +27,7 @@ tr{
 }
 .input{
     text-align: center;
-    font-size: 20pt;
+    font-size: 27pt;
     padding: 5px;
     margin: 8px;
     background-color: aliceblue;
